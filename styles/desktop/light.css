@@ -1,0 +1,60 @@
+.post {
+  position: relative;
+  margin-left: 65px;
+  margin-right: 65px;
+}
+
+pghead {
+  background-color: #f0f0f0;
+  padding: 6px;
+  border-style: solid;
+  border-radius: 12px;
+  border-color: #dedede;
+  margin: 6px;
+  margin-left: 65px;
+  margin-right: 65px;
+  display: flex;
+  justify-content: center;
+} 
+
+ipgh {
+  padding: 6px;
+  display: flex;
+  justify-content: center;
+  margin: 6px;
+  margin-right: 65px;
+  margin-left: 65px;
+} 
+
+pgnc {
+  background-color: #f0f0f0;
+  padding: 6px;
+  border-style: solid;
+  border-radius: 12px;
+  border-color: #dedede;
+  display: flex;
+  margin: 6px;
+  margin-left:65px;
+  margin-right:65px;
+  vertical-align: middle;
+  align-items:center;
+}
+
+pgna {
+  background-color: #f0f0f0;
+  padding: 6px;
+  border-style: solid;
+  border-radius: 12px;
+  border-color: #dedede;
+  display: grid;
+  margin: 6px;
+  margin-left:65px;
+  margin-right:65px;
+  vertical-align: middle;
+  align-items: center;
+}
+
+.comply {
+  margin-left: 65px;
+  margin-right: 65px;
+}
