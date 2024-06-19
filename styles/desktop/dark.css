@@ -1,0 +1,76 @@
+.post {
+  position: relative;
+  margin-left: 65px;
+  margin-right: 65px;
+}
+
+body {
+  color: white;
+  background-color: #242424;
+}
+
+#msg {
+  background-color: #2b2b2b;
+  border-color: #333333;
+  color:white;
+}
+
+.themeableicon {
+  -webkit-filter: invert(100%); /* safari 6.0 - 9.0 */
+          filter: invert(100%);
+}
+
+pghead {
+  background-color: #2b2b2b;
+  padding: 6px;
+  border-style: solid;
+  border-radius: 12px;
+  border-color: #333333;
+  margin: 6px;
+  margin-left: 65px;
+  margin-right: 65px;
+  display: flex;
+  justify-content: center;
+} 
+
+ipgh {
+  padding: 6px;
+  display: flex;
+  justify-content: center;
+  margin: 6px;
+  margin-right: 65px;
+  margin-left: 65px;
+} 
+
+pgnc {
+  background-color: #2b2b2b;
+  padding: 6px;
+  border-style: solid;
+  border-radius: 12px;
+  border-color: #333333;
+  display: flex;
+  margin: 6px;
+  margin-left:65px;
+  margin-right:65px;
+  vertical-align: middle;
+  align-items:center;
+}
+
+pgna {
+  background-color: #2b2b2b;
+  padding: 6px;
+  border-style: solid;
+  border-radius: 12px;
+  border-color: #333333;
+  display: grid;
+  margin: 6px;
+  margin-left:65px;
+  margin-right:65px;
+  vertical-align: middle;
+  align-items: center;
+}
+
+.comply {
+  margin-left: 65px;
+  margin-right: 65px;
+}
